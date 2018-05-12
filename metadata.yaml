@@ -1,0 +1,27 @@
+_repo: With-Botha-in-the-Field_15802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, Eric Moore
+    gutenberg_agent_id: '6304'
+    url: http://www.gutenberg.org/2009/agents/6304
+description: ''
+gutenberg_issued: '2005-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15802'
+  lccn: '16001307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Namibia'
+- !lcsh 'Botha, Louis, 1862-1919'
+title: With Botha in the Field
+url: http://www.gutenberg.org/ebooks/15802
